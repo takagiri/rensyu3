@@ -185,7 +185,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('20%のあぷりです'),
+        title: Text('メモリ1です'),
         actions: <Widget>[
           IconButton(
             onPressed: () {
